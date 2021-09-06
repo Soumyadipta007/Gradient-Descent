@@ -1,2 +1,2 @@
 # Gradient Descent
- Simple Gradient Descent 
+Gradient Descent Code Implementation from scratch.
